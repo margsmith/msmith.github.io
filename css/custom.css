@@ -1,0 +1,8 @@
+/*!
+ * Add all custom styles to this file. Do not modify the other CSS files.
+ */
+
+div{
+  background-image: url("china.png");
+  background-repeat: x-repeat;
+}
